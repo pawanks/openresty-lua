@@ -1,0 +1,20 @@
+## Objective
+
+This tutorial is little how to on nginx + lua with some basic and yet praticle examples which can be handy as in when require.
+
+# Quick start
+
+1. Download and install openresty 
+
+$ wget https://openresty.org/download/openresty-1.11.2.2.tar.gz
+
+$ tar -xzvf openresty-1.11.2.2.tar.gz
+
+$ cd openresty-1.11.2.2
+
+
+# Note : The package comes bundled with almost all the core and 3rd party modules you need however I had download one addional module "nginx-auth-request-module"
+# More on it in "blog-page-counter-using-openresty-lua"
+
+ 
+
